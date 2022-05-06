@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "gh": "ng add angular-cli-ghpages",
-    "depl": "ng deploy"
+    "depl": "ng deploy --base-href=angular"
   },
   "private": true,
   "dependencies": {
